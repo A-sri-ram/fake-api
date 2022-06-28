@@ -1,0 +1,10 @@
+{
+  "sr": [
+    {
+      "title": { "string": {} },
+      "comments": {
+        "hasMany": "Comment"
+      }
+    }
+  ]
+}
