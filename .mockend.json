@@ -6,13 +6,13 @@
 	  "due_date": { 
 		"dateTime": {
 		"min": "2010-01-01T00:00:00Z",
-		"max": "2020-12-31T23:59:59Z"
+		"max": "2025-12-31T23:59:59Z"
 	  	} 
 	  },
 	  "added_on": { 
 		"dateTime": {
 		"min": "2010-01-01T00:00:00Z",
-		"max": "2020-12-31T23:59:59Z"
+		"max": "2025-12-31T23:59:59Z"
 	  	} 
 	  },
 	  "assigned_leitner_box": { "string": {} }
